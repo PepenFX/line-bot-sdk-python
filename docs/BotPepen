@@ -1,0 +1,10 @@
+pkg install python2
+Pkg install git
+git clone http://github.com/PepenFX/BotPepen
+Pkg install rsa
+Pip2 install thrift==0.9.3
+Pip2 install rsa
+Pip2 install requests
+ls
+Cd BotPepen
+python2 BotPepen.py
